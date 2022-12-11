@@ -10,6 +10,6 @@ public class Bird {
      * Constructor for objects of class Bird
      */
     public Bird() {
-        // initialise instance variables
+        System.out.println("Ja som baca velmo stary");
     }
 }
