@@ -1,20 +1,30 @@
 #BlueJ package file
-editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
-editor.fx.0.y=0
+editor.fx.0.height=739
+editor.fx.0.width=816
+<<<<<<< HEAD
+editor.fx.0.x=932
+editor.fx.0.y=466
+objectbench.height=97
+=======
+editor.fx.0.x=552
+editor.fx.0.y=100
 objectbench.height=93
+>>>>>>> ucen
 objectbench.width=451
 package.divider.horizontal=0.599476439790576
-package.divider.vertical=0.8
-package.editor.height=393
+package.divider.vertical=0.792
+package.editor.height=389
 package.editor.width=670
 package.editor.x=20
 package.editor.y=20
 package.frame.height=600
 package.frame.width=800
 package.numDependencies=0
+<<<<<<< HEAD
 package.numTargets=4
+=======
+package.numTargets=2
+>>>>>>> ucen
 package.showExtends=true
 package.showUses=true
 project.charset=UTF-8
@@ -28,8 +38,9 @@ target1.name=zako
 target1.showInterface=false
 target1.type=ClassTarget
 target1.width=80
-target1.x=160
-target1.y=10
+<<<<<<< HEAD
+target1.x=95
+target1.y=170
 target2.height=50
 target2.name=Bird
 target2.showInterface=false
@@ -38,16 +49,27 @@ target2.width=80
 target2.x=70
 target2.y=10
 target3.height=50
-target3.name=Dodo
+target3.name=Ahoj
 target3.showInterface=false
 target3.type=ClassTarget
 target3.width=80
-target3.x=339
-target3.y=245
+target3.x=283
+target3.y=183
 target4.height=50
-target4.name=Ahoj
+target4.name=Kakadiu
 target4.showInterface=false
 target4.type=ClassTarget
 target4.width=80
-target4.x=70
-target4.y=70
+target4.x=190
+target4.y=270
+=======
+target1.x=70
+target1.y=10
+target2.height=50
+target2.name=Ahoj
+target2.showInterface=false
+target2.type=ClassTarget
+target2.width=80
+target2.x=160
+target2.y=10
+>>>>>>> ucen
